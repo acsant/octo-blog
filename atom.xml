@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
+<<<<<<< HEAD
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://acsant.github.io/atom.xml" rel="self"/>
   <link href="http://acsant.github.io/"/>
@@ -8,6 +9,15 @@
   <id>http://acsant.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
+=======
+  <title><![CDATA[Hello, I am Akash Sant!]]></title>
+  <link href="http://acsant.github.io/atom.xml" rel="self"/>
+  <link href="http://acsant.github.io/"/>
+  <updated>2014-02-26T20:04:20-08:00</updated>
+  <id>http://acsant.github.io/</id>
+  <author>
+    <name><![CDATA[Akash Sant]]></name>
+>>>>>>> 68631ea6ce25c241382a16a0e2fb313801330179
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
